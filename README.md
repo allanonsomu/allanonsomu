@@ -19,20 +19,20 @@ I'm a passionate **JavaScript and Node.js Developer** who loves creating robust 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allanonsomu&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allanonsomu&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Achievements
 
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&margin-w=15)
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=allanonsomu&theme=radical&margin-w=15)
 
 ---
 
 ## 🔥 Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=allanonsomu&theme=radical)](https://git.io/streak-stats)
 
 ---
 
@@ -45,7 +45,7 @@ I'm a passionate **JavaScript and Node.js Developer** who loves creating robust 
 
 ## 🌍 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/allanonsomu)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/allanonsomu)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/allanonsomu)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://yourportfolio.com)
