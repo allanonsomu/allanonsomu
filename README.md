@@ -19,7 +19,7 @@ I'm a passionate **JavaScript and Node.js Developer** who loves creating robust 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allanonsomu&show_icons=true&theme=radical)
+[![Allan's GitHub Stats](https://peterstats.vercel.app/api?username=allanonsomu&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allanonsomu&layout=compact&theme=radical)
 
 ---
